@@ -1,0 +1,2513 @@
+{
+  "version": 3,
+  "products": [
+    {
+      "id": "search-g-shock-ga-2100-1a1dr-1795105870392-0",
+      "name": "G-Shock GA-2100-1A1DR",
+      "brand": "Casio",
+      "category": "Fashion",
+      "tagline": "The legendary carbon core guard 'CasiOak'",
+      "keywords": [
+        "casio",
+        "g-shock"
+      ],
+      "rating": 4.8,
+      "reviewCount": 310,
+      "msrp": 8995,
+      "history30d": [
+        8995,
+        8860,
+        8725,
+        8590,
+        8455,
+        8320,
+        8185,
+        8050,
+        7915,
+        7645
+      ],
+      "specs": [
+        {
+          "label": "Material",
+          "value": "Carbon Core Guard"
+        },
+        {
+          "label": "Water Resistance",
+          "value": "200m"
+        },
+        {
+          "label": "Battery Life",
+          "value": "3 Years"
+        },
+        {
+          "label": "Weight",
+          "value": "51g"
+        }
+      ],
+      "offers": [
+        {
+          "storeId": "amazon",
+          "storeName": "Amazon.in",
+          "price": 7645,
+          "shipping": 0,
+          "cashback": 200,
+          "couponCode": "ICICISAVE",
+          "couponText": "10% off with ICICI",
+          "deliveryDays": 1,
+          "deliveryEta": "Tomorrow",
+          "sellerRating": 4.7,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "Prime delivery",
+          "url": "https://www.amazon.in"
+        },
+        {
+          "storeId": "flipkart",
+          "storeName": "Flipkart",
+          "price": 7800,
+          "shipping": 0,
+          "cashback": 500,
+          "couponCode": "FLASH500",
+          "couponText": "Flat 500 off",
+          "deliveryDays": 2,
+          "deliveryEta": "2 days",
+          "sellerRating": 4.7,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "1 year warranty",
+          "url": "https://www.flipkart.com"
+        },
+        {
+          "storeId": "croma",
+          "storeName": "Croma",
+          "price": 8200,
+          "shipping": 0,
+          "cashback": 0,
+          "couponCode": "NEWUSER",
+          "couponText": "Extra 5% off",
+          "deliveryDays": 1,
+          "deliveryEta": "Tomorrow",
+          "sellerRating": 4.7,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "Authentic store support",
+          "url": "https://www.croma.com"
+        },
+        {
+          "storeId": "myntra",
+          "storeName": "Myntra",
+          "price": 8995,
+          "shipping": 0,
+          "cashback": 300,
+          "couponCode": "MYNTRA10",
+          "couponText": "10% off on first order",
+          "deliveryDays": 3,
+          "deliveryEta": "3 days",
+          "sellerRating": 4.7,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "Free returns",
+          "url": "https://www.myntra.com"
+        }
+      ],
+      "votes": {
+        "worthIt": 34,
+        "waitForDrop": 5
+      },
+      "notes": [],
+      "isDynamicSearch": true
+    },
+    {
+      "id": "search-g-shock-dw-5600e-1v-1795105870393-1",
+      "name": "G-Shock DW-5600E-1V",
+      "brand": "Casio",
+      "category": "Fashion",
+      "tagline": "The original digital icon",
+      "keywords": [
+        "casio",
+        "g-shock"
+      ],
+      "rating": 4.7,
+      "reviewCount": 455,
+      "msrp": 5495,
+      "history30d": [
+        5495,
+        5412,
+        5329,
+        5247,
+        5164,
+        5081,
+        4998,
+        4915,
+        4833,
+        4670
+      ],
+      "specs": [
+        {
+          "label": "Display",
+          "value": "Digital"
+        },
+        {
+          "label": "Shock Resistance",
+          "value": "Standard"
+        },
+        {
+          "label": "Battery",
+          "value": "CR2016"
+        },
+        {
+          "label": "Features",
+          "value": "Stopwatch, Alarm"
+        }
+      ],
+      "offers": [
+        {
+          "storeId": "amazon",
+          "storeName": "Amazon.in",
+          "price": 4670,
+          "shipping": 0,
+          "cashback": 150,
+          "couponCode": "AMZDEAL",
+          "couponText": "Save 5%",
+          "deliveryDays": 1,
+          "deliveryEta": "Tomorrow",
+          "sellerRating": 4.7,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "Fast delivery",
+          "url": "https://www.amazon.in"
+        },
+        {
+          "storeId": "flipkart",
+          "storeName": "Flipkart",
+          "price": 4900,
+          "shipping": 0,
+          "cashback": 0,
+          "couponCode": "FKOFFER",
+          "couponText": "Bank discount",
+          "deliveryDays": 2,
+          "deliveryEta": "2 days",
+          "sellerRating": 4.7,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "Genuine product",
+          "url": "https://www.flipkart.com"
+        },
+        {
+          "storeId": "jiomart",
+          "storeName": "JioMart",
+          "price": 5200,
+          "shipping": 40,
+          "cashback": 200,
+          "couponCode": "JIOMART5",
+          "couponText": "Extra 5% cashback",
+          "deliveryDays": 3,
+          "deliveryEta": "3 days",
+          "sellerRating": 4.7,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "Reliable seller",
+          "url": "https://www.jiomart.com"
+        },
+        {
+          "storeId": "jiomart",
+          "storeName": "Ajio",
+          "price": 5495,
+          "shipping": 0,
+          "cashback": 0,
+          "couponCode": "AJIOGIFT",
+          "couponText": "Flat 200 off",
+          "deliveryDays": 4,
+          "deliveryEta": "4 days",
+          "sellerRating": 4.7,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "Easy exchange",
+          "url": "https://www.jiomart.com"
+        }
+      ],
+      "votes": {
+        "worthIt": 43,
+        "waitForDrop": 6
+      },
+      "notes": [],
+      "isDynamicSearch": true
+    },
+    {
+      "id": "iphone-15-128",
+      "name": "Apple iPhone 15 (128GB)",
+      "brand": "Apple",
+      "category": "Electronics",
+      "tagline": "A16 Bionic, 48MP main camera, Dynamic Island & USB-C — compare bank + exchange offers.",
+      "keywords": [
+        "phone",
+        "mobile",
+        "smartphone",
+        "apple",
+        "iphone",
+        "5g",
+        "ios"
+      ],
+      "rating": 4.8,
+      "reviewCount": 12450,
+      "msrp": 79900,
+      "history30d": [
+        71900,
+        69900,
+        68900,
+        67999,
+        65999,
+        64999,
+        63999,
+        62999,
+        61999,
+        59999
+      ],
+      "specs": [
+        {
+          "label": "Display",
+          "value": "6.1\" Super Retina XDR"
+        },
+        {
+          "label": "Processor",
+          "value": "A16 Bionic"
+        },
+        {
+          "label": "Camera",
+          "value": "48MP + 12MP Dual"
+        },
+        {
+          "label": "Charging",
+          "value": "USB-C Fast Charge"
+        }
+      ],
+      "offers": [
+        {
+          "storeId": "flipkart",
+          "storeName": "Flipkart",
+          "price": 59999,
+          "shipping": 0,
+          "cashback": 3000,
+          "couponCode": "HDFC3000",
+          "couponText": "₹3,000 instant HDFC Credit Card off",
+          "deliveryDays": 1,
+          "deliveryEta": "Tomorrow",
+          "sellerRating": 4.9,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "Open-box delivery + ₹3k bank off",
+          "url": "https://www.flipkart.com"
+        },
+        {
+          "storeId": "amazon",
+          "storeName": "Amazon.in",
+          "price": 61900,
+          "shipping": 0,
+          "cashback": 3500,
+          "couponCode": "ICICI3500",
+          "couponText": "₹3,500 ICICI Amazon Pay card off",
+          "deliveryDays": 1,
+          "deliveryEta": "1 day Prime",
+          "sellerRating": 4.9,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "No-cost EMI up to 9 months",
+          "url": "https://www.amazon.in"
+        },
+        {
+          "storeId": "croma",
+          "storeName": "Croma",
+          "price": 62990,
+          "shipping": 0,
+          "cashback": 4000,
+          "couponCode": "CROMA4K",
+          "couponText": "₹4,000 ICICI / SBI bank cashback",
+          "deliveryDays": 0,
+          "deliveryEta": "3 hrs pickup",
+          "sellerRating": 4.9,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "Same-day store pickup",
+          "url": "https://www.croma.com"
+        },
+        {
+          "storeId": "blinkit",
+          "storeName": "Blinkit",
+          "price": 64900,
+          "shipping": 0,
+          "cashback": 2500,
+          "couponCode": "BLINK2500",
+          "couponText": "₹2,500 HDFC instant off",
+          "deliveryDays": 0,
+          "deliveryEta": "12 mins",
+          "sellerRating": 4.8,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "Delivered in 12 mins flat",
+          "url": "https://blinkit.com"
+        },
+        {
+          "storeId": "jiomart",
+          "storeName": "JioMart",
+          "price": 63490,
+          "shipping": 0,
+          "cashback": 2000,
+          "couponCode": "JIOAPPLE2K",
+          "couponText": "₹2,000 SBI card discount",
+          "deliveryDays": 1,
+          "deliveryEta": "Next day",
+          "sellerRating": 4.7,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "Reliance Digital backed",
+          "url": "https://www.jiomart.com"
+        }
+      ],
+      "votes": {
+        "worthIt": 618,
+        "waitForDrop": 74
+      },
+      "notes": [
+        {
+          "id": "n-ip15-1",
+          "author": "Vikram Rao",
+          "handle": "@vikram_tech",
+          "storeName": "Flipkart",
+          "text": "₹56,999 net on Flipkart with HDFC3000 beat every offline Apple reseller near me.",
+          "helpfulCount": 64,
+          "createdAt": "2h ago"
+        }
+      ]
+    },
+    {
+      "id": "boat-airdopes-anc",
+      "name": "boAt Nirvana Ion ANC Earbuds",
+      "brand": "boAt",
+      "category": "Electronics",
+      "tagline": "120H total playback TWS earbuds with 32dB active noise cancellation and BEAST mode.",
+      "keywords": [
+        "earbuds",
+        "tws",
+        "bluetooth",
+        "earphones",
+        "boat",
+        "audio",
+        "budget"
+      ],
+      "rating": 4.5,
+      "reviewCount": 8320,
+      "msrp": 4990,
+      "history30d": [
+        2999,
+        2799,
+        2699,
+        2499,
+        2399,
+        2299,
+        2299,
+        2199,
+        1999,
+        1899
+      ],
+      "specs": [
+        {
+          "label": "Playback",
+          "value": "120 hrs Total"
+        },
+        {
+          "label": "ANC",
+          "value": "32 dB Active"
+        },
+        {
+          "label": "Low Latency",
+          "value": "60ms Gaming"
+        },
+        {
+          "label": "Water Rating",
+          "value": "IPX4"
+        }
+      ],
+      "offers": [
+        {
+          "storeId": "flipkart",
+          "storeName": "Flipkart",
+          "price": 1899,
+          "shipping": 0,
+          "cashback": 200,
+          "couponCode": "BOAT200",
+          "couponText": "₹200 instant SuperCoin + card off",
+          "deliveryDays": 1,
+          "deliveryEta": "Tomorrow",
+          "sellerRating": 4.7,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "Lowest net price in India",
+          "url": "https://www.flipkart.com"
+        },
+        {
+          "storeId": "amazon",
+          "storeName": "Amazon.in",
+          "price": 1999,
+          "shipping": 0,
+          "cashback": 150,
+          "couponCode": "AMZ150",
+          "couponText": "₹150 clip coupon on page",
+          "deliveryDays": 1,
+          "deliveryEta": "1 day Prime",
+          "sellerRating": 4.8,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "Prime 1-day shipping",
+          "url": "https://www.amazon.in"
+        },
+        {
+          "storeId": "blinkit",
+          "storeName": "Blinkit",
+          "price": 2199,
+          "shipping": 0,
+          "cashback": 200,
+          "couponCode": "AUDIO200",
+          "couponText": "₹200 instant off electronics",
+          "deliveryDays": 0,
+          "deliveryEta": "10 mins",
+          "sellerRating": 4.8,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "10-min doorstep delivery",
+          "url": "https://blinkit.com"
+        },
+        {
+          "storeId": "zepto",
+          "storeName": "Zepto",
+          "price": 2149,
+          "shipping": 0,
+          "cashback": 150,
+          "couponCode": "ZEPTO150",
+          "couponText": "₹150 UPI instant discount",
+          "deliveryDays": 0,
+          "deliveryEta": "9 mins",
+          "sellerRating": 4.7,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "9-min emergency drop",
+          "url": "https://www.zeptonow.com"
+        },
+        {
+          "storeId": "croma",
+          "storeName": "Croma",
+          "price": 2299,
+          "shipping": 0,
+          "cashback": 250,
+          "couponCode": "CROMA250",
+          "couponText": "₹250 NeuCard discount",
+          "deliveryDays": 0,
+          "deliveryEta": "3 hrs pickup",
+          "sellerRating": 4.8,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "Store pickup available",
+          "url": "https://www.croma.com"
+        }
+      ],
+      "votes": {
+        "worthIt": 274,
+        "waitForDrop": 31
+      },
+      "notes": []
+    },
+    {
+      "id": "macbook-air-m2",
+      "name": "Apple MacBook Air 13\" M2 (16GB)",
+      "brand": "Apple",
+      "category": "Electronics",
+      "tagline": "Fanless M2 chip laptop with 16GB unified memory, 18-hr battery & Liquid Retina display.",
+      "keywords": [
+        "laptop",
+        "macbook",
+        "notebook",
+        "computer",
+        "coding",
+        "college",
+        "apple"
+      ],
+      "rating": 4.9,
+      "reviewCount": 3890,
+      "msrp": 99900,
+      "history30d": [
+        94900,
+        92900,
+        91900,
+        89900,
+        88900,
+        87900,
+        86900,
+        85900,
+        84900,
+        82990
+      ],
+      "specs": [
+        {
+          "label": "Chip",
+          "value": "Apple M2 8-Core"
+        },
+        {
+          "label": "Memory",
+          "value": "16 GB Unified RAM"
+        },
+        {
+          "label": "Storage",
+          "value": "256 GB SSD"
+        },
+        {
+          "label": "Battery",
+          "value": "Up to 18 Hours"
+        }
+      ],
+      "offers": [
+        {
+          "storeId": "amazon",
+          "storeName": "Amazon.in",
+          "price": 82990,
+          "shipping": 0,
+          "cashback": 5000,
+          "couponCode": "SBI5000",
+          "couponText": "₹5,000 SBI / ICICI Card instant off",
+          "deliveryDays": 1,
+          "deliveryEta": "1 day Prime",
+          "sellerRating": 4.9,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "Lowest net price ₹77,990",
+          "url": "https://www.amazon.in"
+        },
+        {
+          "storeId": "flipkart",
+          "storeName": "Flipkart",
+          "price": 84990,
+          "shipping": 0,
+          "cashback": 5000,
+          "couponCode": "FKMAC5K",
+          "couponText": "₹5,000 HDFC Credit Card off",
+          "deliveryDays": 1,
+          "deliveryEta": "Tomorrow",
+          "sellerRating": 4.8,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "Open-box check + exchange",
+          "url": "https://www.flipkart.com"
+        },
+        {
+          "storeId": "croma",
+          "storeName": "Croma",
+          "price": 85990,
+          "shipping": 0,
+          "cashback": 5500,
+          "couponCode": "STUDENT5500",
+          "couponText": "₹5,500 Student + ICICI Card off",
+          "deliveryDays": 0,
+          "deliveryEta": "3 hrs pickup",
+          "sellerRating": 4.9,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "Free laptop sleeve in-store",
+          "url": "https://www.croma.com"
+        },
+        {
+          "storeId": "jiomart",
+          "storeName": "JioMart",
+          "price": 86900,
+          "shipping": 0,
+          "cashback": 4000,
+          "couponCode": "JIOLAP4K",
+          "couponText": "₹4,000 bank cashback",
+          "deliveryDays": 2,
+          "deliveryEta": "2 days",
+          "sellerRating": 4.7,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "Reliance Digital warranty",
+          "url": "https://www.jiomart.com"
+        }
+      ],
+      "votes": {
+        "worthIt": 345,
+        "waitForDrop": 29
+      },
+      "notes": []
+    },
+    {
+      "id": "nike-sneakers",
+      "name": "Nike Revolution 7 Running Shoes",
+      "brand": "Nike",
+      "category": "Fashion",
+      "tagline": "Lightweight foam-cushioned running & everyday sneakers with breathable mesh upper.",
+      "keywords": [
+        "shoes",
+        "sneakers",
+        "footwear",
+        "running",
+        "nike",
+        "men",
+        "women",
+        "fashion"
+      ],
+      "rating": 4.6,
+      "reviewCount": 4120,
+      "msrp": 3695,
+      "history30d": [
+        3695,
+        3495,
+        3295,
+        3195,
+        2995,
+        2895,
+        2795,
+        2695,
+        2595,
+        2495
+      ],
+      "specs": [
+        {
+          "label": "Midsole",
+          "value": "Soft Foam Cushion"
+        },
+        {
+          "label": "Upper",
+          "value": "Breathable Knit Mesh"
+        },
+        {
+          "label": "Outsole",
+          "value": "Generative Traction"
+        },
+        {
+          "label": "Weight",
+          "value": "285 g"
+        }
+      ],
+      "offers": [
+        {
+          "storeId": "myntra",
+          "storeName": "Myntra",
+          "price": 2495,
+          "shipping": 0,
+          "cashback": 300,
+          "couponCode": "MYNTRA300",
+          "couponText": "₹300 off footwear code MYNTRA300",
+          "deliveryDays": 2,
+          "deliveryEta": "2 days",
+          "sellerRating": 4.8,
+          "warrantyMonths": 3,
+          "inStock": true,
+          "perk": "14-day free size exchange",
+          "url": "https://www.myntra.com"
+        },
+        {
+          "storeId": "ajio",
+          "storeName": "Ajio",
+          "price": 2590,
+          "shipping": 0,
+          "cashback": 350,
+          "couponCode": "AJIOBOLD",
+          "couponText": "₹350 off using AJIOBOLD",
+          "deliveryDays": 2,
+          "deliveryEta": "2 days",
+          "sellerRating": 4.7,
+          "warrantyMonths": 3,
+          "inStock": true,
+          "perk": "Extra RelianceOne points",
+          "url": "https://www.ajio.com"
+        },
+        {
+          "storeId": "flipkart",
+          "storeName": "Flipkart",
+          "price": 2649,
+          "shipping": 0,
+          "cashback": 200,
+          "couponCode": "FKFIT200",
+          "couponText": "₹200 Axis card offer",
+          "deliveryDays": 1,
+          "deliveryEta": "Tomorrow",
+          "sellerRating": 4.6,
+          "warrantyMonths": 3,
+          "inStock": true,
+          "perk": "Fastest 1-day footwear drop",
+          "url": "https://www.flipkart.com"
+        },
+        {
+          "storeId": "amazon",
+          "storeName": "Amazon.in",
+          "price": 2699,
+          "shipping": 0,
+          "cashback": 150,
+          "couponCode": "AMZSHOES",
+          "couponText": "₹150 Prime fashion coupon",
+          "deliveryDays": 1,
+          "deliveryEta": "1 day Prime",
+          "sellerRating": 4.7,
+          "warrantyMonths": 3,
+          "inStock": true,
+          "perk": "Easy doorstep return",
+          "url": "https://www.amazon.in"
+        }
+      ],
+      "votes": {
+        "worthIt": 218,
+        "waitForDrop": 24
+      },
+      "notes": []
+    },
+    {
+      "id": "puma-hoodie",
+      "name": "Puma Essentials Fleece Hoodie",
+      "brand": "Puma",
+      "category": "Fashion",
+      "tagline": "Cotton-blend regular fit pullover hoodie with kangaroo pocket and ribbed cuffs.",
+      "keywords": [
+        "hoodie",
+        "jacket",
+        "sweatshirt",
+        "clothes",
+        "shirt",
+        "winter",
+        "fashion",
+        "puma"
+      ],
+      "rating": 4.6,
+      "reviewCount": 2890,
+      "msrp": 3499,
+      "history30d": [
+        2999,
+        2799,
+        2699,
+        2499,
+        2299,
+        2199,
+        2099,
+        1999,
+        1899,
+        1799
+      ],
+      "specs": [
+        {
+          "label": "Fabric",
+          "value": "68% Cotton, 32% Poly"
+        },
+        {
+          "label": "Fit",
+          "value": "Regular Comfort Fit"
+        },
+        {
+          "label": "Wash Care",
+          "value": "Machine Wash"
+        },
+        {
+          "label": "Pocket",
+          "value": "Front Kangaroo"
+        }
+      ],
+      "offers": [
+        {
+          "storeId": "ajio",
+          "storeName": "Ajio",
+          "price": 1799,
+          "shipping": 0,
+          "cashback": 300,
+          "couponCode": "WINTER300",
+          "couponText": "₹300 off with WINTER300",
+          "deliveryDays": 2,
+          "deliveryEta": "2 days",
+          "sellerRating": 4.7,
+          "warrantyMonths": 0,
+          "inStock": true,
+          "perk": "Lowest net ₹1,499",
+          "url": "https://www.ajio.com"
+        },
+        {
+          "storeId": "myntra",
+          "storeName": "Myntra",
+          "price": 1899,
+          "shipping": 0,
+          "cashback": 250,
+          "couponCode": "INSIDER250",
+          "couponText": "₹250 Insider coupon",
+          "deliveryDays": 2,
+          "deliveryEta": "2 days",
+          "sellerRating": 4.8,
+          "warrantyMonths": 0,
+          "inStock": true,
+          "perk": "Free 14-day exchange",
+          "url": "https://www.myntra.com"
+        },
+        {
+          "storeId": "amazon",
+          "storeName": "Amazon.in",
+          "price": 1999,
+          "shipping": 0,
+          "cashback": 150,
+          "couponCode": "AMZAPP150",
+          "couponText": "₹150 fashion promo",
+          "deliveryDays": 1,
+          "deliveryEta": "1 day Prime",
+          "sellerRating": 4.7,
+          "warrantyMonths": 0,
+          "inStock": true,
+          "perk": "Next-day Prime delivery",
+          "url": "https://www.amazon.in"
+        },
+        {
+          "storeId": "flipkart",
+          "storeName": "Flipkart",
+          "price": 1949,
+          "shipping": 0,
+          "cashback": 100,
+          "couponCode": "FKSTYLE100",
+          "couponText": "₹100 SuperCoin off",
+          "deliveryDays": 1,
+          "deliveryEta": "Tomorrow",
+          "sellerRating": 4.6,
+          "warrantyMonths": 0,
+          "inStock": true,
+          "perk": "Fast delivery",
+          "url": "https://www.flipkart.com"
+        }
+      ],
+      "votes": {
+        "worthIt": 176,
+        "waitForDrop": 19
+      },
+      "notes": []
+    },
+    {
+      "id": "wildcraft-backpack",
+      "name": "Wildcraft 44L Laptop Backpack",
+      "brand": "Wildcraft",
+      "category": "Study & Gear",
+      "tagline": "Water-resistant 3-compartment college & travel backpack with 15.6\" padded laptop sleeve.",
+      "keywords": [
+        "bag",
+        "backpack",
+        "laptop bag",
+        "college",
+        "travel",
+        "wildcraft"
+      ],
+      "rating": 4.7,
+      "reviewCount": 5340,
+      "msrp": 2899,
+      "history30d": [
+        2299,
+        2199,
+        2099,
+        1999,
+        1899,
+        1799,
+        1749,
+        1699,
+        1599,
+        1499
+      ],
+      "specs": [
+        {
+          "label": "Capacity",
+          "value": "44 Litres"
+        },
+        {
+          "label": "Laptop Fit",
+          "value": "Up to 15.6\""
+        },
+        {
+          "label": "Warranty",
+          "value": "5 Years"
+        },
+        {
+          "label": "Rain Cover",
+          "value": "Included"
+        }
+      ],
+      "offers": [
+        {
+          "storeId": "flipkart",
+          "storeName": "Flipkart",
+          "price": 1499,
+          "shipping": 0,
+          "cashback": 150,
+          "couponCode": "BAG150",
+          "couponText": "₹150 instant travel gear off",
+          "deliveryDays": 1,
+          "deliveryEta": "Tomorrow",
+          "sellerRating": 4.8,
+          "warrantyMonths": 60,
+          "inStock": true,
+          "perk": "5-year Wildcraft warranty",
+          "url": "https://www.flipkart.com"
+        },
+        {
+          "storeId": "amazon",
+          "storeName": "Amazon.in",
+          "price": 1549,
+          "shipping": 0,
+          "cashback": 100,
+          "couponCode": "AMZBAG100",
+          "couponText": "₹100 clip coupon",
+          "deliveryDays": 1,
+          "deliveryEta": "1 day Prime",
+          "sellerRating": 4.8,
+          "warrantyMonths": 60,
+          "inStock": true,
+          "perk": "1-day Prime shipping",
+          "url": "https://www.amazon.in"
+        },
+        {
+          "storeId": "myntra",
+          "storeName": "Myntra",
+          "price": 1599,
+          "shipping": 0,
+          "cashback": 200,
+          "couponCode": "MYNBAG200",
+          "couponText": "₹200 off bags",
+          "deliveryDays": 2,
+          "deliveryEta": "2 days",
+          "sellerRating": 4.7,
+          "warrantyMonths": 60,
+          "inStock": true,
+          "perk": "Net ₹1,399 with coupon",
+          "url": "https://www.myntra.com"
+        },
+        {
+          "storeId": "blinkit",
+          "storeName": "Blinkit",
+          "price": 1699,
+          "shipping": 0,
+          "cashback": 100,
+          "couponCode": "BLINK100",
+          "couponText": "₹100 instant off",
+          "deliveryDays": 0,
+          "deliveryEta": "12 mins",
+          "sellerRating": 4.7,
+          "warrantyMonths": 60,
+          "inStock": true,
+          "perk": "Need a bag urgently? 12 mins!",
+          "url": "https://blinkit.com"
+        }
+      ],
+      "votes": {
+        "worthIt": 261,
+        "waitForDrop": 17
+      },
+      "notes": []
+    },
+    {
+      "id": "philips-airfryer",
+      "name": "Philips Digital Air Fryer (4.1L)",
+      "brand": "Philips",
+      "category": "Home & Kitchen",
+      "tagline": "Rapid Air technology digital air fryer for crisp snacks using up to 90% less oil.",
+      "keywords": [
+        "air fryer",
+        "kitchen",
+        "cooking",
+        "appliance",
+        "philips",
+        "home"
+      ],
+      "rating": 4.7,
+      "reviewCount": 6810,
+      "msrp": 9995,
+      "history30d": [
+        8499,
+        8299,
+        7999,
+        7799,
+        7499,
+        7299,
+        6999,
+        6899,
+        6699,
+        6499
+      ],
+      "specs": [
+        {
+          "label": "Capacity",
+          "value": "4.1 Litres"
+        },
+        {
+          "label": "Power",
+          "value": "1400 W"
+        },
+        {
+          "label": "Presets",
+          "value": "7 Touch Presets"
+        },
+        {
+          "label": "Warranty",
+          "value": "2 Years"
+        }
+      ],
+      "offers": [
+        {
+          "storeId": "amazon",
+          "storeName": "Amazon.in",
+          "price": 6499,
+          "shipping": 0,
+          "cashback": 650,
+          "couponCode": "HOME650",
+          "couponText": "₹650 HDFC card + coupon off",
+          "deliveryDays": 1,
+          "deliveryEta": "1 day Prime",
+          "sellerRating": 4.8,
+          "warrantyMonths": 24,
+          "inStock": true,
+          "perk": "Net ₹5,849 — 30-day low",
+          "url": "https://www.amazon.in"
+        },
+        {
+          "storeId": "flipkart",
+          "storeName": "Flipkart",
+          "price": 6699,
+          "shipping": 0,
+          "cashback": 500,
+          "couponCode": "FKKITCHEN",
+          "couponText": "₹500 Axis Bank discount",
+          "deliveryDays": 1,
+          "deliveryEta": "Tomorrow",
+          "sellerRating": 4.7,
+          "warrantyMonths": 24,
+          "inStock": true,
+          "perk": "Open-box check",
+          "url": "https://www.flipkart.com"
+        },
+        {
+          "storeId": "croma",
+          "storeName": "Croma",
+          "price": 6999,
+          "shipping": 0,
+          "cashback": 700,
+          "couponCode": "CROMA700",
+          "couponText": "₹700 Tata Neu instant off",
+          "deliveryDays": 0,
+          "deliveryEta": "3 hrs pickup",
+          "sellerRating": 4.9,
+          "warrantyMonths": 24,
+          "inStock": true,
+          "perk": "2-year Philips warranty",
+          "url": "https://www.croma.com"
+        },
+        {
+          "storeId": "jiomart",
+          "storeName": "JioMart",
+          "price": 6899,
+          "shipping": 0,
+          "cashback": 400,
+          "couponCode": "JIO400",
+          "couponText": "₹400 UPI cashback",
+          "deliveryDays": 2,
+          "deliveryEta": "2 days",
+          "sellerRating": 4.6,
+          "warrantyMonths": 24,
+          "inStock": true,
+          "perk": "Free delivery",
+          "url": "https://www.jiomart.com"
+        }
+      ],
+      "votes": {
+        "worthIt": 310,
+        "waitForDrop": 28
+      },
+      "notes": []
+    },
+    {
+      "id": "minimalist-sunscreen",
+      "name": "Minimalist SPF 50 PA++++ Sunscreen",
+      "brand": "Minimalist",
+      "category": "Beauty & Care",
+      "tagline": "Broad-spectrum multi-vitamin sunscreen with zero white cast and lightweight matte feel.",
+      "keywords": [
+        "sunscreen",
+        "skincare",
+        "beauty",
+        "spf",
+        "face",
+        "minimalist"
+      ],
+      "rating": 4.6,
+      "reviewCount": 15200,
+      "msrp": 399,
+      "history30d": [
+        399,
+        389,
+        379,
+        369,
+        359,
+        349,
+        349,
+        339,
+        329,
+        319
+      ],
+      "specs": [
+        {
+          "label": "Protection",
+          "value": "SPF 50 PA++++"
+        },
+        {
+          "label": "Pack Size",
+          "value": "50 g Tube"
+        },
+        {
+          "label": "Finish",
+          "value": "Zero White Cast"
+        },
+        {
+          "label": "Key Actives",
+          "value": "Vitamins A, B3, E"
+        }
+      ],
+      "offers": [
+        {
+          "storeId": "zepto",
+          "storeName": "Zepto",
+          "price": 339,
+          "shipping": 0,
+          "cashback": 40,
+          "couponCode": "GLOW40",
+          "couponText": "₹40 off personal care",
+          "deliveryDays": 0,
+          "deliveryEta": "9 mins",
+          "sellerRating": 4.8,
+          "warrantyMonths": 0,
+          "inStock": true,
+          "perk": "9-min delivery for ₹299 net",
+          "url": "https://www.zeptonow.com"
+        },
+        {
+          "storeId": "blinkit",
+          "storeName": "Blinkit",
+          "price": 349,
+          "shipping": 0,
+          "cashback": 35,
+          "couponCode": "CARE35",
+          "couponText": "₹35 off skincare",
+          "deliveryDays": 0,
+          "deliveryEta": "10 mins",
+          "sellerRating": 4.9,
+          "warrantyMonths": 0,
+          "inStock": true,
+          "perk": "10-min drop",
+          "url": "https://blinkit.com"
+        },
+        {
+          "storeId": "amazon",
+          "storeName": "Amazon.in",
+          "price": 319,
+          "shipping": 0,
+          "cashback": 20,
+          "couponCode": "AMZBEAUTY",
+          "couponText": "₹20 Subscribe & Save",
+          "deliveryDays": 1,
+          "deliveryEta": "1 day Prime",
+          "sellerRating": 4.8,
+          "warrantyMonths": 0,
+          "inStock": true,
+          "perk": "Lowest sticker price",
+          "url": "https://www.amazon.in"
+        },
+        {
+          "storeId": "myntra",
+          "storeName": "Myntra",
+          "price": 345,
+          "shipping": 0,
+          "cashback": 45,
+          "couponCode": "BEAUTY45",
+          "couponText": "₹45 off beauty combo",
+          "deliveryDays": 2,
+          "deliveryEta": "2 days",
+          "sellerRating": 4.8,
+          "warrantyMonths": 0,
+          "inStock": true,
+          "perk": "Authentic brand store",
+          "url": "https://www.myntra.com"
+        }
+      ],
+      "votes": {
+        "worthIt": 492,
+        "waitForDrop": 22
+      },
+      "notes": []
+    },
+    {
+      "id": "philips-trimmer",
+      "name": "Philips Series 3000 Beard Trimmer",
+      "brand": "Philips",
+      "category": "Beauty & Care",
+      "tagline": "20 lock-in length settings, self-sharpening stainless blades & 60-min cordless use.",
+      "keywords": [
+        "trimmer",
+        "shaver",
+        "grooming",
+        "beard",
+        "philips",
+        "men"
+      ],
+      "rating": 4.5,
+      "reviewCount": 19400,
+      "msrp": 1495,
+      "history30d": [
+        1349,
+        1299,
+        1249,
+        1199,
+        1199,
+        1149,
+        1099,
+        1099,
+        1049,
+        999
+      ],
+      "specs": [
+        {
+          "label": "Length Settings",
+          "value": "20 (0.5–10 mm)"
+        },
+        {
+          "label": "Runtime",
+          "value": "60 mins Cordless"
+        },
+        {
+          "label": "Blades",
+          "value": "Self-Sharpening"
+        },
+        {
+          "label": "Warranty",
+          "value": "2 Years"
+        }
+      ],
+      "offers": [
+        {
+          "storeId": "amazon",
+          "storeName": "Amazon.in",
+          "price": 999,
+          "shipping": 0,
+          "cashback": 100,
+          "couponCode": "GROOM100",
+          "couponText": "₹100 instant page coupon",
+          "deliveryDays": 1,
+          "deliveryEta": "1 day Prime",
+          "sellerRating": 4.8,
+          "warrantyMonths": 24,
+          "inStock": true,
+          "perk": "Net ₹899 — 30-day low",
+          "url": "https://www.amazon.in"
+        },
+        {
+          "storeId": "blinkit",
+          "storeName": "Blinkit",
+          "price": 1149,
+          "shipping": 0,
+          "cashback": 150,
+          "couponCode": "BLINK150",
+          "couponText": "₹150 grooming flash off",
+          "deliveryDays": 0,
+          "deliveryEta": "10 mins",
+          "sellerRating": 4.8,
+          "warrantyMonths": 24,
+          "inStock": true,
+          "perk": "10-min emergency delivery",
+          "url": "https://blinkit.com"
+        },
+        {
+          "storeId": "flipkart",
+          "storeName": "Flipkart",
+          "price": 1049,
+          "shipping": 0,
+          "cashback": 75,
+          "couponCode": "FK75",
+          "couponText": "₹75 SuperCoin discount",
+          "deliveryDays": 1,
+          "deliveryEta": "Tomorrow",
+          "sellerRating": 4.7,
+          "warrantyMonths": 24,
+          "inStock": true,
+          "perk": "Fast delivery",
+          "url": "https://www.flipkart.com"
+        },
+        {
+          "storeId": "croma",
+          "storeName": "Croma",
+          "price": 1099,
+          "shipping": 0,
+          "cashback": 100,
+          "couponCode": "CROMA100",
+          "couponText": "₹100 NeuCard discount",
+          "deliveryDays": 0,
+          "deliveryEta": "3 hrs pickup",
+          "sellerRating": 4.8,
+          "warrantyMonths": 24,
+          "inStock": true,
+          "perk": "In-store pickup",
+          "url": "https://www.croma.com"
+        }
+      ],
+      "votes": {
+        "worthIt": 388,
+        "waitForDrop": 19
+      },
+      "notes": []
+    },
+    {
+      "id": "anc-headphones",
+      "name": "Elara Studio ANC Headphones",
+      "brand": "Elara Acoustic",
+      "category": "Electronics",
+      "tagline": "42-hour adaptive noise cancelling headphones with dual-device Bluetooth.",
+      "keywords": [
+        "headphones",
+        "anc",
+        "audio",
+        "wireless",
+        "study",
+        "music"
+      ],
+      "image": "/src/assets/images/product_anc_headphones_1795103133922.jpg",
+      "rating": 4.8,
+      "reviewCount": 1420,
+      "msrp": 24990,
+      "history30d": [
+        22990,
+        22490,
+        21990,
+        21490,
+        20990,
+        19990,
+        20490,
+        19490,
+        18990,
+        17990
+      ],
+      "specs": [
+        {
+          "label": "Battery Life",
+          "value": "42 hrs ANC on"
+        },
+        {
+          "label": "Noise Isolation",
+          "value": "-46 dB Hybrid"
+        },
+        {
+          "label": "Weight",
+          "value": "248 g"
+        },
+        {
+          "label": "Fast Charge",
+          "value": "10 min = 5 hrs"
+        }
+      ],
+      "offers": [
+        {
+          "storeId": "flipkart",
+          "storeName": "Flipkart",
+          "price": 17990,
+          "shipping": 0,
+          "cashback": 1500,
+          "couponCode": "AXIS1500",
+          "couponText": "₹1,500 off with Axis Bank Card",
+          "deliveryDays": 1,
+          "deliveryEta": "Tomorrow",
+          "sellerRating": 4.8,
+          "warrantyMonths": 24,
+          "inStock": true,
+          "perk": "Open-box delivery verification",
+          "url": "https://www.flipkart.com"
+        },
+        {
+          "storeId": "amazon",
+          "storeName": "Amazon.in",
+          "price": 18490,
+          "shipping": 0,
+          "cashback": 1250,
+          "couponCode": "ICICI1250",
+          "couponText": "₹1,250 off ICICI Credit Card",
+          "deliveryDays": 1,
+          "deliveryEta": "1 day Prime",
+          "sellerRating": 4.8,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "No-cost EMI up to 6 months",
+          "url": "https://www.amazon.in"
+        },
+        {
+          "storeId": "croma",
+          "storeName": "Croma",
+          "price": 18990,
+          "shipping": 0,
+          "cashback": 1500,
+          "couponCode": "CROMA1500",
+          "couponText": "₹1,500 Tata Neu instant off",
+          "deliveryDays": 0,
+          "deliveryEta": "3 hrs pickup",
+          "sellerRating": 4.9,
+          "warrantyMonths": 24,
+          "inStock": true,
+          "perk": "Try in-store + 2yr warranty",
+          "url": "https://www.croma.com"
+        },
+        {
+          "storeId": "blinkit",
+          "storeName": "Blinkit",
+          "price": 19490,
+          "shipping": 0,
+          "cashback": 1000,
+          "couponCode": "TECH1000",
+          "couponText": "₹1,000 off electronics coupon",
+          "deliveryDays": 0,
+          "deliveryEta": "12 mins",
+          "sellerRating": 4.8,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "Instant 12-min doorstep drop",
+          "url": "https://blinkit.com"
+        }
+      ],
+      "votes": {
+        "worthIt": 184,
+        "waitForDrop": 27
+      },
+      "notes": [
+        {
+          "id": "n-anc-1",
+          "author": "Riya Menon",
+          "handle": "@riyabuys",
+          "storeName": "Flipkart",
+          "text": "Applied AXIS1500 on Flipkart — got it for ₹16,490 net with open-box delivery check!",
+          "helpfulCount": 29,
+          "createdAt": "2h ago"
+        }
+      ]
+    },
+    {
+      "id": "mech-keyboard",
+      "name": "KeyCraft 75 Aluminum Keyboard",
+      "brand": "KeyCraft Lab",
+      "category": "Study & Gear",
+      "tagline": "CNC aluminum wireless 75% mechanical keyboard with hot-swap switches.",
+      "keywords": [
+        "keyboard",
+        "mechanical",
+        "coding",
+        "desk",
+        "workspace",
+        "gaming"
+      ],
+      "image": "/src/assets/images/product_mech_keyboard_1795103134721.jpg",
+      "rating": 4.9,
+      "reviewCount": 890,
+      "msrp": 12990,
+      "history30d": [
+        12990,
+        12490,
+        11990,
+        11990,
+        11490,
+        10990,
+        11290,
+        10490,
+        9990,
+        9490
+      ],
+      "specs": [
+        {
+          "label": "Layout",
+          "value": "75% + Rotary Knob"
+        },
+        {
+          "label": "Connectivity",
+          "value": "2.4GHz / BT 5.3 / USB-C"
+        },
+        {
+          "label": "Chassis",
+          "value": "CNC Anodized Alu"
+        },
+        {
+          "label": "Battery",
+          "value": "4000 mAh"
+        }
+      ],
+      "offers": [
+        {
+          "storeId": "amazon",
+          "storeName": "Amazon.in",
+          "price": 9490,
+          "shipping": 0,
+          "cashback": 750,
+          "couponCode": "KEY750",
+          "couponText": "Clip ₹750 coupon on product page",
+          "deliveryDays": 1,
+          "deliveryEta": "1 day Prime",
+          "sellerRating": 4.9,
+          "warrantyMonths": 24,
+          "inStock": true,
+          "perk": "Lowest net price + coiled cable",
+          "url": "https://www.amazon.in"
+        },
+        {
+          "storeId": "flipkart",
+          "storeName": "Flipkart",
+          "price": 9790,
+          "shipping": 0,
+          "cashback": 500,
+          "couponCode": "FKTECH500",
+          "couponText": "₹500 Flipkart Axis cashback",
+          "deliveryDays": 1,
+          "deliveryEta": "Tomorrow",
+          "sellerRating": 4.8,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "7-day easy replacement",
+          "url": "https://www.flipkart.com"
+        },
+        {
+          "storeId": "croma",
+          "storeName": "Croma",
+          "price": 9990,
+          "shipping": 0,
+          "cashback": 500,
+          "couponCode": "CROMA500",
+          "couponText": "₹500 HDFC Instant off",
+          "deliveryDays": 0,
+          "deliveryEta": "3 hrs pickup",
+          "sellerRating": 4.8,
+          "warrantyMonths": 24,
+          "inStock": true,
+          "perk": "Same-day store pickup",
+          "url": "https://www.croma.com"
+        },
+        {
+          "storeId": "blinkit",
+          "storeName": "Blinkit",
+          "price": 10490,
+          "shipping": 0,
+          "cashback": 600,
+          "couponCode": "WORK600",
+          "couponText": "₹600 WFH gear coupon",
+          "deliveryDays": 0,
+          "deliveryEta": "12 mins",
+          "sellerRating": 4.8,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "12-min instant delivery",
+          "url": "https://blinkit.com"
+        }
+      ],
+      "votes": {
+        "worthIt": 142,
+        "waitForDrop": 19
+      },
+      "notes": []
+    },
+    {
+      "id": "espresso-maker",
+      "name": "Aura Barista Compact Espresso",
+      "brand": "Aura Kitchen",
+      "category": "Home & Kitchen",
+      "tagline": "15-bar brushed stainless espresso machine with commercial 58mm portafilter.",
+      "keywords": [
+        "coffee",
+        "espresso",
+        "machine",
+        "kitchen",
+        "appliance"
+      ],
+      "image": "/src/assets/images/product_espresso_machine_1795103134896.jpg",
+      "rating": 4.7,
+      "reviewCount": 640,
+      "msrp": 34990,
+      "history30d": [
+        34990,
+        33990,
+        32990,
+        32490,
+        31990,
+        29990,
+        30490,
+        28990,
+        27990,
+        26990
+      ],
+      "specs": [
+        {
+          "label": "Pump Pressure",
+          "value": "15-Bar PID"
+        },
+        {
+          "label": "Heat-Up Time",
+          "value": "28 seconds"
+        },
+        {
+          "label": "Water Tank",
+          "value": "1.8 L Removable"
+        },
+        {
+          "label": "Footprint",
+          "value": "21 cm Wide"
+        }
+      ],
+      "offers": [
+        {
+          "storeId": "croma",
+          "storeName": "Croma",
+          "price": 27490,
+          "shipping": 0,
+          "cashback": 2500,
+          "couponCode": "TATA2500",
+          "couponText": "₹2,500 HDFC + NeuCard discount",
+          "deliveryDays": 1,
+          "deliveryEta": "Same day",
+          "sellerRating": 4.9,
+          "warrantyMonths": 24,
+          "inStock": true,
+          "perk": "Free barista demo + 2yr warranty",
+          "url": "https://www.croma.com"
+        },
+        {
+          "storeId": "amazon",
+          "storeName": "Amazon.in",
+          "price": 26990,
+          "shipping": 0,
+          "cashback": 1500,
+          "couponCode": "HDFC1500",
+          "couponText": "₹1,500 instant HDFC bank off",
+          "deliveryDays": 1,
+          "deliveryEta": "1 day Prime",
+          "sellerRating": 4.7,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "Lowest sticker price",
+          "url": "https://www.amazon.in"
+        },
+        {
+          "storeId": "flipkart",
+          "storeName": "Flipkart",
+          "price": 27990,
+          "shipping": 0,
+          "cashback": 1500,
+          "couponCode": "FKHOME1500",
+          "couponText": "₹1,500 SBI Card offer",
+          "deliveryDays": 2,
+          "deliveryEta": "2 days",
+          "sellerRating": 4.7,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "Includes steel milk pitcher",
+          "url": "https://www.flipkart.com"
+        }
+      ],
+      "votes": {
+        "worthIt": 118,
+        "waitForDrop": 38
+      },
+      "notes": []
+    },
+    {
+      "id": "smartwatch-pro",
+      "name": "Pulse Titanium 2 Smartwatch",
+      "brand": "Pulse Gear",
+      "category": "Electronics",
+      "tagline": "Sapphire-glass titanium smartwatch with 14-day battery and dual-band GPS.",
+      "keywords": [
+        "watch",
+        "smartwatch",
+        "fitness",
+        "tracker",
+        "wearable"
+      ],
+      "image": "/src/assets/images/product_smartwatch_pro_1795103136223.jpg",
+      "rating": 4.6,
+      "reviewCount": 1105,
+      "msrp": 23990,
+      "history30d": [
+        23990,
+        23490,
+        22990,
+        21990,
+        21490,
+        20990,
+        20490,
+        19990,
+        19490,
+        18990
+      ],
+      "specs": [
+        {
+          "label": "Case Material",
+          "value": "Grade 5 Titanium"
+        },
+        {
+          "label": "Battery Life",
+          "value": "Up to 14 days"
+        },
+        {
+          "label": "Water Rating",
+          "value": "5 ATM / 50 m"
+        },
+        {
+          "label": "Sensors",
+          "value": "HR, SpO2, Dual GPS"
+        }
+      ],
+      "offers": [
+        {
+          "storeId": "flipkart",
+          "storeName": "Flipkart",
+          "price": 18990,
+          "shipping": 0,
+          "cashback": 1500,
+          "couponCode": "PULSE1500",
+          "couponText": "₹1,500 prepaid card offer",
+          "deliveryDays": 1,
+          "deliveryEta": "Tomorrow",
+          "sellerRating": 4.8,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "Extra ₹1,000 watch exchange",
+          "url": "https://www.flipkart.com"
+        },
+        {
+          "storeId": "amazon",
+          "storeName": "Amazon.in",
+          "price": 19290,
+          "shipping": 0,
+          "cashback": 1200,
+          "couponCode": "AMZPAY1200",
+          "couponText": "₹1,200 Amazon Pay ICICI reward",
+          "deliveryDays": 1,
+          "deliveryEta": "1 day Prime",
+          "sellerRating": 4.8,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "Prime 1-day delivery",
+          "url": "https://www.amazon.in"
+        },
+        {
+          "storeId": "blinkit",
+          "storeName": "Blinkit",
+          "price": 19990,
+          "shipping": 0,
+          "cashback": 1000,
+          "couponCode": "BLINK1K",
+          "couponText": "₹1,000 off instant tech",
+          "deliveryDays": 0,
+          "deliveryEta": "10 mins",
+          "sellerRating": 4.8,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "On your wrist in 10 minutes",
+          "url": "https://blinkit.com"
+        }
+      ],
+      "votes": {
+        "worthIt": 96,
+        "waitForDrop": 44
+      },
+      "notes": []
+    },
+    {
+      "id": "bluetooth-speaker",
+      "name": "Sonosfera Move Mini Speaker",
+      "brand": "Sonosfera",
+      "category": "Electronics",
+      "tagline": "360-degree portable acoustic speaker with IP67 waterproofing and aluminum handle.",
+      "keywords": [
+        "speaker",
+        "bluetooth",
+        "audio",
+        "music",
+        "portable"
+      ],
+      "image": "/src/assets/images/product_bluetooth_speaker_1795103134162.jpg",
+      "rating": 4.8,
+      "reviewCount": 730,
+      "msrp": 9990,
+      "history30d": [
+        9990,
+        9690,
+        9490,
+        8990,
+        8790,
+        8490,
+        8290,
+        7990,
+        7690,
+        7290
+      ],
+      "specs": [
+        {
+          "label": "Playtime",
+          "value": "18 hours"
+        },
+        {
+          "label": "Protection",
+          "value": "IP67 Dust & Water"
+        },
+        {
+          "label": "Drivers",
+          "value": "Dual Woofer + Tweeter"
+        },
+        {
+          "label": "Weight",
+          "value": "920 g"
+        }
+      ],
+      "offers": [
+        {
+          "storeId": "blinkit",
+          "storeName": "Blinkit",
+          "price": 7490,
+          "shipping": 0,
+          "cashback": 750,
+          "couponCode": "PARTY750",
+          "couponText": "₹750 weekend audio code",
+          "deliveryDays": 0,
+          "deliveryEta": "10 mins",
+          "sellerRating": 4.9,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "Instant party rescue in 10 mins",
+          "url": "https://blinkit.com"
+        },
+        {
+          "storeId": "flipkart",
+          "storeName": "Flipkart",
+          "price": 7290,
+          "shipping": 0,
+          "cashback": 400,
+          "couponCode": "AUDIO400",
+          "couponText": "₹400 SuperCoins + bank off",
+          "deliveryDays": 1,
+          "deliveryEta": "Tomorrow",
+          "sellerRating": 4.8,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "Lowest sticker price",
+          "url": "https://www.flipkart.com"
+        },
+        {
+          "storeId": "amazon",
+          "storeName": "Amazon.in",
+          "price": 7590,
+          "shipping": 0,
+          "cashback": 500,
+          "couponCode": "AMZ500",
+          "couponText": "₹500 coupon checkbox",
+          "deliveryDays": 1,
+          "deliveryEta": "1 day Prime",
+          "sellerRating": 4.8,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "Next-day shipping",
+          "url": "https://www.amazon.in"
+        }
+      ],
+      "votes": {
+        "worthIt": 163,
+        "waitForDrop": 14
+      },
+      "notes": []
+    },
+    {
+      "id": "ereader-tablet",
+      "name": "Boox Note Sage 7 E-Reader",
+      "brand": "Boox Digital",
+      "category": "Study & Gear",
+      "tagline": "Paper-like 7-inch 300 PPI E-Ink reader with tactile page-turn buttons.",
+      "keywords": [
+        "ereader",
+        "kindle",
+        "tablet",
+        "book",
+        "reading",
+        "study"
+      ],
+      "image": "/src/assets/images/product_ereader_tablet_1795103134827.jpg",
+      "rating": 4.7,
+      "reviewCount": 512,
+      "msrp": 16990,
+      "history30d": [
+        16990,
+        16490,
+        15990,
+        15490,
+        15490,
+        14990,
+        15290,
+        14490,
+        13990,
+        13490
+      ],
+      "specs": [
+        {
+          "label": "Display",
+          "value": "7\" 300 PPI E-Ink"
+        },
+        {
+          "label": "Storage",
+          "value": "32 GB + Cloud"
+        },
+        {
+          "label": "Battery",
+          "value": "5 Weeks Reading"
+        },
+        {
+          "label": "Frontlight",
+          "value": "Dual Warm & Cool"
+        }
+      ],
+      "offers": [
+        {
+          "storeId": "amazon",
+          "storeName": "Amazon.in",
+          "price": 13490,
+          "shipping": 0,
+          "cashback": 1000,
+          "couponCode": "READ1000",
+          "couponText": "₹1,000 student & Prime coupon",
+          "deliveryDays": 1,
+          "deliveryEta": "1 day Prime",
+          "sellerRating": 4.8,
+          "warrantyMonths": 24,
+          "inStock": true,
+          "perk": "Free magnetic folio cover",
+          "url": "https://www.amazon.in"
+        },
+        {
+          "storeId": "flipkart",
+          "storeName": "Flipkart",
+          "price": 13990,
+          "shipping": 0,
+          "cashback": 750,
+          "couponCode": "FKAXIS750",
+          "couponText": "₹750 Axis credit card off",
+          "deliveryDays": 1,
+          "deliveryEta": "Tomorrow",
+          "sellerRating": 4.7,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "No-cost EMI available",
+          "url": "https://www.flipkart.com"
+        },
+        {
+          "storeId": "croma",
+          "storeName": "Croma",
+          "price": 14290,
+          "shipping": 0,
+          "cashback": 1000,
+          "couponCode": "CROMA1K",
+          "couponText": "₹1,000 HDFC instant off",
+          "deliveryDays": 0,
+          "deliveryEta": "3 hrs pickup",
+          "sellerRating": 4.9,
+          "warrantyMonths": 24,
+          "inStock": true,
+          "perk": "In-store pickup ready",
+          "url": "https://www.croma.com"
+        }
+      ],
+      "votes": {
+        "worthIt": 129,
+        "waitForDrop": 21
+      },
+      "notes": []
+    },
+    {
+      "id": "amul-butter-500",
+      "name": "Amul Pasteurised Butter (500g)",
+      "brand": "Amul",
+      "category": "Groceries",
+      "tagline": "Classic salted dairy butter pack — compare 10-min apps and bulk grocers.",
+      "keywords": [
+        "butter",
+        "milk",
+        "dairy",
+        "amul",
+        "grocery",
+        "breakfast"
+      ],
+      "rating": 4.9,
+      "reviewCount": 4820,
+      "msrp": 295,
+      "history30d": [
+        295,
+        290,
+        285,
+        285,
+        279,
+        275,
+        279,
+        269,
+        265,
+        255
+      ],
+      "specs": [
+        {
+          "label": "Pack Weight",
+          "value": "500 g"
+        },
+        {
+          "label": "Type",
+          "value": "Salted Dairy Butter"
+        },
+        {
+          "label": "Storage",
+          "value": "Chilled Delivery"
+        },
+        {
+          "label": "Shelf Life",
+          "value": "9 Months"
+        }
+      ],
+      "offers": [
+        {
+          "storeId": "zepto",
+          "storeName": "Zepto",
+          "price": 278,
+          "shipping": 0,
+          "cashback": 23,
+          "couponCode": "ZEPTO23",
+          "couponText": "₹23 instant Zepto Pass discount",
+          "deliveryDays": 0,
+          "deliveryEta": "9 mins",
+          "sellerRating": 4.8,
+          "warrantyMonths": 0,
+          "inStock": true,
+          "perk": "9-min cold-chain delivery",
+          "url": "https://www.zeptonow.com"
+        },
+        {
+          "storeId": "dmart",
+          "storeName": "DMart Ready",
+          "price": 265,
+          "shipping": 0,
+          "cashback": 15,
+          "couponCode": "DMART15",
+          "couponText": "₹15 off on ₹499+ basket",
+          "deliveryDays": 1,
+          "deliveryEta": "Next morning",
+          "sellerRating": 4.8,
+          "warrantyMonths": 0,
+          "inStock": true,
+          "perk": "Lowest everyday shelf price",
+          "url": "https://www.dmart.in"
+        },
+        {
+          "storeId": "blinkit",
+          "storeName": "Blinkit",
+          "price": 282,
+          "shipping": 0,
+          "cashback": 20,
+          "couponCode": "BLINK20",
+          "couponText": "₹20 off with HDFC RuPay",
+          "deliveryDays": 0,
+          "deliveryEta": "10 mins",
+          "sellerRating": 4.9,
+          "warrantyMonths": 0,
+          "inStock": true,
+          "perk": "Free delivery above ₹199",
+          "url": "https://blinkit.com"
+        },
+        {
+          "storeId": "instamart",
+          "storeName": "Instamart",
+          "price": 285,
+          "shipping": 0,
+          "cashback": 25,
+          "couponCode": "SWIGGY25",
+          "couponText": "₹25 off via Swiggy HDFC Card",
+          "deliveryDays": 0,
+          "deliveryEta": "12 mins",
+          "sellerRating": 4.7,
+          "warrantyMonths": 0,
+          "inStock": true,
+          "perk": "Zero surge fee today",
+          "url": "https://www.swiggy.com/instamart"
+        },
+        {
+          "storeId": "bigbasket",
+          "storeName": "BigBasket",
+          "price": 279,
+          "shipping": 0,
+          "cashback": 15,
+          "couponCode": "BBTATA15",
+          "couponText": "5% NeuCoins via Tata Neu",
+          "deliveryDays": 0,
+          "deliveryEta": "20 mins",
+          "sellerRating": 4.8,
+          "warrantyMonths": 0,
+          "inStock": true,
+          "perk": "Freshness guaranteed",
+          "url": "https://www.bigbasket.com"
+        },
+        {
+          "storeId": "jiomart",
+          "storeName": "JioMart",
+          "price": 274,
+          "shipping": 0,
+          "cashback": 10,
+          "couponCode": "JIO10",
+          "couponText": "₹10 UPI cashback",
+          "deliveryDays": 0,
+          "deliveryEta": "25 mins",
+          "sellerRating": 4.6,
+          "warrantyMonths": 0,
+          "inStock": true,
+          "perk": "No minimum order value",
+          "url": "https://www.jiomart.com"
+        }
+      ],
+      "votes": {
+        "worthIt": 312,
+        "waitForDrop": 18
+      },
+      "notes": []
+    },
+    {
+      "id": "maggi-12-pack",
+      "name": "Maggi 2-Minute Masala Noodles (12-Pack)",
+      "brand": "Nestle Maggi",
+      "category": "Groceries",
+      "tagline": "Family & hostel 840g value pack — quick-commerce flash coupons updated live.",
+      "keywords": [
+        "maggi",
+        "noodles",
+        "snacks",
+        "food",
+        "hostel"
+      ],
+      "rating": 4.9,
+      "reviewCount": 9240,
+      "msrp": 180,
+      "history30d": [
+        180,
+        176,
+        172,
+        168,
+        165,
+        162,
+        165,
+        159,
+        154,
+        148
+      ],
+      "specs": [
+        {
+          "label": "Quantity",
+          "value": "12 × 70g Cakes"
+        },
+        {
+          "label": "Total Weight",
+          "value": "840 g"
+        },
+        {
+          "label": "Flavour",
+          "value": "Classic Masala"
+        },
+        {
+          "label": "Veg / Non-Veg",
+          "value": "100% Vegetarian"
+        }
+      ],
+      "offers": [
+        {
+          "storeId": "zepto",
+          "storeName": "Zepto",
+          "price": 158,
+          "shipping": 0,
+          "cashback": 18,
+          "couponCode": "ZEPTO18",
+          "couponText": "₹18 instant snack coupon",
+          "deliveryDays": 0,
+          "deliveryEta": "9 mins",
+          "sellerRating": 4.8,
+          "warrantyMonths": 0,
+          "inStock": true,
+          "perk": "Lowest net price in 9 mins",
+          "url": "https://www.zeptonow.com"
+        },
+        {
+          "storeId": "blinkit",
+          "storeName": "Blinkit",
+          "price": 162,
+          "shipping": 0,
+          "cashback": 15,
+          "couponCode": "SNACK15",
+          "couponText": "₹15 off snack bundle",
+          "deliveryDays": 0,
+          "deliveryEta": "10 mins",
+          "sellerRating": 4.9,
+          "warrantyMonths": 0,
+          "inStock": true,
+          "perk": "Midnight delivery open",
+          "url": "https://blinkit.com"
+        },
+        {
+          "storeId": "instamart",
+          "storeName": "Instamart",
+          "price": 165,
+          "shipping": 0,
+          "cashback": 20,
+          "couponCode": "INSTA20",
+          "couponText": "₹20 off via UPI autopay",
+          "deliveryDays": 0,
+          "deliveryEta": "12 mins",
+          "sellerRating": 4.7,
+          "warrantyMonths": 0,
+          "inStock": true,
+          "perk": "Free delivery on Swiggy One",
+          "url": "https://www.swiggy.com/instamart"
+        },
+        {
+          "storeId": "amazon",
+          "storeName": "Amazon.in",
+          "price": 164,
+          "shipping": 0,
+          "cashback": 10,
+          "couponCode": "AMZFRESH10",
+          "couponText": "₹10 Amazon Pay cashback",
+          "deliveryDays": 1,
+          "deliveryEta": "Same day",
+          "sellerRating": 4.8,
+          "warrantyMonths": 0,
+          "inStock": true,
+          "perk": "Amazon Fresh slot",
+          "url": "https://www.amazon.in"
+        }
+      ],
+      "votes": {
+        "worthIt": 420,
+        "waitForDrop": 12
+      },
+      "notes": []
+    },
+    {
+      "id": "search-playstation-5-slim-console-1795105843639-0",
+      "name": "PlayStation 5 Slim Console",
+      "brand": "Sony",
+      "category": "Electronics",
+      "tagline": "The ultimate gaming console with 1TB SSD",
+      "keywords": [
+        "playstation",
+        "5"
+      ],
+      "rating": 4.8,
+      "reviewCount": 310,
+      "msrp": 54990,
+      "history30d": [
+        54990,
+        54490,
+        53989,
+        53489,
+        52988,
+        52488,
+        51988,
+        51487,
+        50987,
+        49990
+      ],
+      "specs": [
+        {
+          "label": "Storage",
+          "value": "1TB SSD"
+        },
+        {
+          "label": "Resolution",
+          "value": "4K at 120fps"
+        },
+        {
+          "label": "Design",
+          "value": "Slim Form Factor"
+        },
+        {
+          "label": "Controller",
+          "value": "DualSense Wireless"
+        }
+      ],
+      "offers": [
+        {
+          "storeId": "amazon",
+          "storeName": "Amazon.in",
+          "price": 49990,
+          "shipping": 0,
+          "cashback": 2000,
+          "couponCode": "AMZPAY5",
+          "couponText": "Flat 5% off via Amazon Pay ICICI",
+          "deliveryDays": 1,
+          "deliveryEta": "Tomorrow",
+          "sellerRating": 4.7,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "Prime delivery",
+          "url": "https://www.amazon.in"
+        },
+        {
+          "storeId": "croma",
+          "storeName": "Croma",
+          "price": 50990,
+          "shipping": 0,
+          "cashback": 1500,
+          "couponCode": "HDFC1500",
+          "couponText": "Extra 1500 off on HDFC cards",
+          "deliveryDays": 1,
+          "deliveryEta": "Same day",
+          "sellerRating": 4.7,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "Extended Warranty Available",
+          "url": "https://www.croma.com"
+        },
+        {
+          "storeId": "flipkart",
+          "storeName": "Flipkart",
+          "price": 49990,
+          "shipping": 0,
+          "cashback": 1000,
+          "couponCode": "AXIS10",
+          "couponText": "10% off with Axis Bank",
+          "deliveryDays": 2,
+          "deliveryEta": "2 days",
+          "sellerRating": 4.7,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "No Cost EMI",
+          "url": "https://www.flipkart.com"
+        }
+      ],
+      "votes": {
+        "worthIt": 34,
+        "waitForDrop": 5
+      },
+      "notes": [],
+      "isDynamicSearch": true
+    },
+    {
+      "id": "search-playstation-5-digital-editio-1795105843639-1",
+      "name": "PlayStation 5 Digital Edition Slim",
+      "brand": "Sony",
+      "category": "Electronics",
+      "tagline": "Purely digital gaming performance",
+      "keywords": [
+        "playstation",
+        "5"
+      ],
+      "rating": 4.7,
+      "reviewCount": 455,
+      "msrp": 44990,
+      "history30d": [
+        44990,
+        44790,
+        44590,
+        44391,
+        44191,
+        43991,
+        43791,
+        43591,
+        43392,
+        42990
+      ],
+      "specs": [
+        {
+          "label": "Storage",
+          "value": "1TB SSD"
+        },
+        {
+          "label": "Disc Drive",
+          "value": "None (Digital Only)"
+        },
+        {
+          "label": "Refresh Rate",
+          "value": "Up to 120Hz"
+        },
+        {
+          "label": "Connectivity",
+          "value": "Wi-Fi 6 + Bluetooth 5.1"
+        }
+      ],
+      "offers": [
+        {
+          "storeId": "jiomart",
+          "storeName": "JioMart",
+          "price": 42990,
+          "shipping": 0,
+          "cashback": 500,
+          "couponCode": "JIOPAY",
+          "couponText": "Flat 500 off on UPI",
+          "deliveryDays": 2,
+          "deliveryEta": "2 days",
+          "sellerRating": 4.7,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "JioMart Reward Points",
+          "url": "https://www.jiomart.com"
+        },
+        {
+          "storeId": "amazon",
+          "storeName": "Amazon.in",
+          "price": 43490,
+          "shipping": 0,
+          "cashback": 1000,
+          "couponCode": "AMZPAY5",
+          "couponText": "5% off ICICI cards",
+          "deliveryDays": 1,
+          "deliveryEta": "Tomorrow",
+          "sellerRating": 4.7,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "Standard Manufacturer Warranty",
+          "url": "https://www.amazon.in"
+        },
+        {
+          "storeId": "croma",
+          "storeName": "Croma",
+          "price": 43990,
+          "shipping": 0,
+          "cashback": 1200,
+          "couponCode": "HDFC1500",
+          "couponText": "Save 1200 with HDFC",
+          "deliveryDays": 1,
+          "deliveryEta": "Same day",
+          "sellerRating": 4.7,
+          "warrantyMonths": 12,
+          "inStock": true,
+          "perk": "Fast delivery in Pune",
+          "url": "https://www.croma.com"
+        }
+      ],
+      "votes": {
+        "worthIt": 43,
+        "waitForDrop": 6
+      },
+      "notes": [],
+      "isDynamicSearch": true
+    }
+  ],
+  "polls": [
+    {
+      "id": "poll-tech-1",
+      "question": "Best smartphone buy under ₹60k right now?",
+      "author": "Padmasree D",
+      "context": "iPhone 15 dropped to ₹56,999 net on Flipkart using HDFC3000 — grab now or wait?",
+      "optionAId": "iphone-15-128",
+      "optionBId": "anc-headphones",
+      "votesA": 82,
+      "votesB": 31,
+      "createdAt": "Today"
+    },
+    {
+      "id": "poll-fashion-2",
+      "question": "Best student wardrobe & gear pick under ₹2,500?",
+      "author": "Shobana T",
+      "context": "Nike Revolution 7 on Myntra (₹2,195 net) vs Wildcraft 44L Laptop Bag on Flipkart (₹1,349 net).",
+      "optionAId": "nike-sneakers",
+      "optionBId": "wildcraft-backpack",
+      "votesA": 64,
+      "votesB": 48,
+      "createdAt": "Yesterday"
+    }
+  ]
+}
